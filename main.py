@@ -19,7 +19,7 @@ def index():
                            num_rating= list(popular_df['num-rating'].values),
                            avg_rating= list(popular_df['avg-rating'].values)
 
-    )
+                          )
 
 if __name__ == '__main__':
     app.run(debug=True)
