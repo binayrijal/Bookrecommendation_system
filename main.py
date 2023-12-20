@@ -24,6 +24,9 @@ def index():
                            avg_rating= list(popular_df['avg-rating'].values)
 
                          )
+@app.route('/recom')
+def recom():
+    return  render_template('recom.html')
 @app.route('/recommendation',methods=['POST'])
 def recommendation():
     if request.method=="POST":

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83fcbf57-4a38-4bb8-adf9-915e02afe8b3" name="Changes" comment="" />
+    <list default="true" id="83fcbf57-4a38-4bb8-adf9-915e02afe8b3" name="Changes" comment="">
+      <change beforePath="D:/pythonProjectusingFlask/.idea/workspace.xml" beforeDir="false" afterPath="D:/pythonProjectusingFlask/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="D:/pythonProjectusingFlask/Templates/recom.html" beforeDir="false" afterPath="D:/pythonProjectusingFlask/Templates/recom.html" afterDir="false" />
+      <change beforePath="D:/pythonProjectusingFlask/main.py" beforeDir="false" afterPath="D:/pythonProjectusingFlask/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +21,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/pythonProjectusingFlask" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ZkpMqHfXLgWKogAFsvbsTK5lu8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,6 +37,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/pythonProjectusingFlask",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
@@ -83,7 +91,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://D:/pythonProjectusingFlask/main.py</url>
-          <line>31</line>
+          <line>34</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
